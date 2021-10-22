@@ -1,6 +1,8 @@
 '''
 Task: Find the value of the first triangle number to have over 'N' divisors")
 '''
+
+
 div = int(input("Value for N: "))
 n = 0
 i = 0
